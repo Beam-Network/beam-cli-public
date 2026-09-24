@@ -1,0 +1,19 @@
+/beam
+/beam-dev
+/beam-agentd
+/beam-cli
+/beam-cli-dev
+/beam-tunnel-agent
+/beam-tunnel-agent-dev
+/dist/
+/.wrangler/
+/.idea/
+/.vscode/
+.DS_Store
+*.test
+*.out
+
+# Local environment profiles. Only the documented example is versioned.
+.env
+.env.*
+!.env.example
